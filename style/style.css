@@ -1,0 +1,42 @@
+html {
+	padding: 0;
+}
+
+body {
+	font-size: 16px;
+	font-family: helvetica ,sans-serif; 
+	background-color: #fbe3e8;
+}
+
+/* style for the navbar on all pages */
+
+#navbar {
+}
+a{
+	color: #36c;
+}
+
+a:link {
+	color: #36c;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #669;
+}
+
+a:hover {
+	color: #06f;
+	text-decoration: underline;
+}
+
+a:focus {
+	color: #ff0;
+}
+
+a:active {
+	color: #c0f;
+	text-decoration: underline;
+}
+/* End of stye for the navbar */
